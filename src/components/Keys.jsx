@@ -1,6 +1,5 @@
-import React, { Component } from 'react';
-
-
+// import React, { Component } from 'react';
+/* eslint-disable react/prop-types */
 const Keys = ({ label, keyclass, onButtonClick }) => {
 
     const equalClass = "col-[span_2] bg-[#4ccdc6] text-[#1a261a] font-semibold hover:bg[#4ccdc6]";
